@@ -1,0 +1,1409 @@
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\appsettings.Development.json
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\appsettings.json
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\EHR_project.exe
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\EHR_project.deps.json
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\EHR_project.runtimeconfig.json
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\EHR_project.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\EHR_project.pdb
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Azure.Core.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Azure.Identity.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Humanizer.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\MailKit.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.Build.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\MimeKit.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\NuGet.Common.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\System.CodeDom.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\System.Memory.Data.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\obj\Debug\net7.0\EHR_project.csproj.AssemblyReference.cache
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\obj\Debug\net7.0\EHR_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\obj\Debug\net7.0\EHR_project.AssemblyInfoInputs.cache
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\obj\Debug\net7.0\EHR_project.AssemblyInfo.cs
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\obj\Debug\net7.0\EHR_project.csproj.CoreCompileInputs.cache
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\obj\Debug\net7.0\EHR_project.MvcApplicationPartsAssemblyInfo.cs
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\obj\Debug\net7.0\EHR_project.MvcApplicationPartsAssemblyInfo.cache
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\obj\Debug\net7.0\staticwebassets\msbuild.EHR_project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\obj\Debug\net7.0\staticwebassets\msbuild.build.EHR_project.props
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EHR_project.props
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EHR_project.props
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\obj\Debug\net7.0\staticwebassets.pack.json
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\obj\Debug\net7.0\staticwebassets.build.json
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\obj\Debug\net7.0\staticwebassets.development.json
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\obj\Debug\net7.0\scopedcss\bundle\EHR_project.styles.css
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\obj\Debug\net7.0\EHR_project.csproj.CopyComplete
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\obj\Debug\net7.0\EHR_project.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\obj\Debug\net7.0\refint\EHR_project.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\obj\Debug\net7.0\EHR_project.pdb
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\obj\Debug\net7.0\EHR_project.genruntimeconfig.cache
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\obj\Debug\net7.0\ref\EHR_project.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\appsettings.Development.json
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\appsettings.json
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\EHR_project.exe
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\EHR_project.deps.json
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\EHR_project.runtimeconfig.json
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\EHR_project.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\EHR_project.pdb
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Azure.Core.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Azure.Identity.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Humanizer.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\MailKit.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Mapster.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Mapster.Core.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.Build.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\MimeKit.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\NuGet.Common.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\System.CodeDom.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\System.Memory.Data.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SmartData\angular\EHR\EHR_project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\SmartData\angular\EHR\EHR_project\obj\Debug\net7.0\EHR_project.csproj.AssemblyReference.cache
+D:\SmartData\angular\EHR\EHR_project\obj\Debug\net7.0\EHR_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\SmartData\angular\EHR\EHR_project\obj\Debug\net7.0\EHR_project.AssemblyInfoInputs.cache
+D:\SmartData\angular\EHR\EHR_project\obj\Debug\net7.0\EHR_project.AssemblyInfo.cs
+D:\SmartData\angular\EHR\EHR_project\obj\Debug\net7.0\EHR_project.csproj.CoreCompileInputs.cache
+D:\SmartData\angular\EHR\EHR_project\obj\Debug\net7.0\EHR_project.MvcApplicationPartsAssemblyInfo.cs
+D:\SmartData\angular\EHR\EHR_project\obj\Debug\net7.0\EHR_project.MvcApplicationPartsAssemblyInfo.cache
+D:\SmartData\angular\EHR\EHR_project\obj\Debug\net7.0\staticwebassets\msbuild.EHR_project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SmartData\angular\EHR\EHR_project\obj\Debug\net7.0\staticwebassets\msbuild.build.EHR_project.props
+D:\SmartData\angular\EHR\EHR_project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EHR_project.props
+D:\SmartData\angular\EHR\EHR_project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EHR_project.props
+D:\SmartData\angular\EHR\EHR_project\obj\Debug\net7.0\staticwebassets.pack.json
+D:\SmartData\angular\EHR\EHR_project\obj\Debug\net7.0\staticwebassets.build.json
+D:\SmartData\angular\EHR\EHR_project\obj\Debug\net7.0\staticwebassets.development.json
+D:\SmartData\angular\EHR\EHR_project\obj\Debug\net7.0\scopedcss\bundle\EHR_project.styles.css
+D:\SmartData\angular\EHR\EHR_project\obj\Debug\net7.0\EHR_project.csproj.CopyComplete
+D:\SmartData\angular\EHR\EHR_project\obj\Debug\net7.0\EHR_project.dll
+D:\SmartData\angular\EHR\EHR_project\obj\Debug\net7.0\refint\EHR_project.dll
+D:\SmartData\angular\EHR\EHR_project\obj\Debug\net7.0\EHR_project.pdb
+D:\SmartData\angular\EHR\EHR_project\obj\Debug\net7.0\EHR_project.genruntimeconfig.cache
+D:\SmartData\angular\EHR\EHR_project\obj\Debug\net7.0\ref\EHR_project.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Mapster.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Mapster.Core.dll
+D:\DayUsers\Sanket\Personal\EHR\EHR_project\bin\Debug\net7.0\Dapper.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\appsettings.Development.json
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\appsettings.json
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\EHR_project.exe
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\EHR_project.deps.json
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\EHR_project.runtimeconfig.json
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\EHR_project.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\EHR_project.pdb
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Azure.Core.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Azure.Identity.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Dapper.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Humanizer.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\MailKit.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Mapster.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Mapster.Core.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.Build.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\MimeKit.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\NuGet.Common.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\System.CodeDom.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\System.Memory.Data.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\EHR_project (2)\EHR_project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\EHR_project (2)\EHR_project\obj\Debug\net7.0\EHR_project.csproj.AssemblyReference.cache
+D:\EHR_project (2)\EHR_project\obj\Debug\net7.0\EHR_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\EHR_project (2)\EHR_project\obj\Debug\net7.0\EHR_project.AssemblyInfoInputs.cache
+D:\EHR_project (2)\EHR_project\obj\Debug\net7.0\EHR_project.AssemblyInfo.cs
+D:\EHR_project (2)\EHR_project\obj\Debug\net7.0\EHR_project.csproj.CoreCompileInputs.cache
+D:\EHR_project (2)\EHR_project\obj\Debug\net7.0\EHR_project.MvcApplicationPartsAssemblyInfo.cs
+D:\EHR_project (2)\EHR_project\obj\Debug\net7.0\EHR_project.MvcApplicationPartsAssemblyInfo.cache
+D:\EHR_project (2)\EHR_project\obj\Debug\net7.0\staticwebassets\msbuild.EHR_project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\EHR_project (2)\EHR_project\obj\Debug\net7.0\staticwebassets\msbuild.build.EHR_project.props
+D:\EHR_project (2)\EHR_project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EHR_project.props
+D:\EHR_project (2)\EHR_project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EHR_project.props
+D:\EHR_project (2)\EHR_project\obj\Debug\net7.0\staticwebassets.pack.json
+D:\EHR_project (2)\EHR_project\obj\Debug\net7.0\staticwebassets.build.json
+D:\EHR_project (2)\EHR_project\obj\Debug\net7.0\staticwebassets.development.json
+D:\EHR_project (2)\EHR_project\obj\Debug\net7.0\scopedcss\bundle\EHR_project.styles.css
+D:\EHR_project (2)\EHR_project\obj\Debug\net7.0\EHR_project.csproj.CopyComplete
+D:\EHR_project (2)\EHR_project\obj\Debug\net7.0\EHR_project.dll
+D:\EHR_project (2)\EHR_project\obj\Debug\net7.0\refint\EHR_project.dll
+D:\EHR_project (2)\EHR_project\obj\Debug\net7.0\EHR_project.pdb
+D:\EHR_project (2)\EHR_project\obj\Debug\net7.0\EHR_project.genruntimeconfig.cache
+D:\EHR_project (2)\EHR_project\obj\Debug\net7.0\ref\EHR_project.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\appsettings.json
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\EHR_project.exe
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\EHR_project.deps.json
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\EHR_project.runtimeconfig.json
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\EHR_project.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\EHR_project.pdb
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Dapper.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Humanizer.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\MailKit.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Mapster.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Mapster.Core.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\MimeKit.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\obj\Debug\net7.0\EHR_project.csproj.AssemblyReference.cache
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\obj\Debug\net7.0\EHR_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\obj\Debug\net7.0\EHR_project.AssemblyInfoInputs.cache
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\obj\Debug\net7.0\EHR_project.AssemblyInfo.cs
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\obj\Debug\net7.0\EHR_project.csproj.CoreCompileInputs.cache
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\obj\Debug\net7.0\EHR_project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\obj\Debug\net7.0\EHR_project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\obj\Debug\net7.0\staticwebassets\msbuild.EHR_project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\obj\Debug\net7.0\staticwebassets\msbuild.build.EHR_project.props
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EHR_project.props
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EHR_project.props
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\obj\Debug\net7.0\scopedcss\bundle\EHR_project.styles.css
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\obj\Debug\net7.0\EHR_project.csproj.CopyComplete
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\obj\Debug\net7.0\EHR_project.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\obj\Debug\net7.0\refint\EHR_project.dll
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\obj\Debug\net7.0\EHR_project.pdb
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\obj\Debug\net7.0\EHR_project.genruntimeconfig.cache
+C:\Users\balramrathod\Desktop\Ram\New folder\EHR_project\EHR_project\obj\Debug\net7.0\ref\EHR_project.dll
+D:\SDN PROJECT\EHR_project\EHR_project\obj\Debug\net7.0\EHR_project.csproj.AssemblyReference.cache
+D:\SDN PROJECT\EHR_project\EHR_project\obj\Debug\net7.0\EHR_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\SDN PROJECT\EHR_project\EHR_project\obj\Debug\net7.0\EHR_project.AssemblyInfoInputs.cache
+D:\SDN PROJECT\EHR_project\EHR_project\obj\Debug\net7.0\EHR_project.AssemblyInfo.cs
+D:\SDN PROJECT\EHR_project\EHR_project\obj\Debug\net7.0\EHR_project.csproj.CoreCompileInputs.cache
+D:\SDN PROJECT\EHR_project\EHR_project\obj\Debug\net7.0\EHR_project.MvcApplicationPartsAssemblyInfo.cs
+D:\SDN PROJECT\EHR_project\EHR_project\obj\Debug\net7.0\EHR_project.MvcApplicationPartsAssemblyInfo.cache
+D:\SDN PROJECT\EHR_project\EHR_project\obj\Debug\net7.0\EHR_project.dll
+D:\SDN PROJECT\EHR_project\EHR_project\obj\Debug\net7.0\refint\EHR_project.dll
+D:\SDN PROJECT\EHR_project\EHR_project\obj\Debug\net7.0\EHR_project.pdb
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\appsettings.Development.json
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\appsettings.json
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\EHR_project.exe
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\EHR_project.deps.json
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\EHR_project.runtimeconfig.json
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\EHR_project.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\EHR_project.pdb
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Azure.Core.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Azure.Identity.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Dapper.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Humanizer.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\MailKit.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Mapster.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Mapster.Core.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.Build.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\MimeKit.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\NuGet.Common.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\System.CodeDom.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\System.Memory.Data.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SDN PROJECT\EHR_project\EHR_project\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\SDN PROJECT\EHR_project\EHR_project\obj\Debug\net7.0\staticwebassets\msbuild.EHR_project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SDN PROJECT\EHR_project\EHR_project\obj\Debug\net7.0\staticwebassets\msbuild.build.EHR_project.props
+D:\SDN PROJECT\EHR_project\EHR_project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EHR_project.props
+D:\SDN PROJECT\EHR_project\EHR_project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EHR_project.props
+D:\SDN PROJECT\EHR_project\EHR_project\obj\Debug\net7.0\staticwebassets.pack.json
+D:\SDN PROJECT\EHR_project\EHR_project\obj\Debug\net7.0\staticwebassets.build.json
+D:\SDN PROJECT\EHR_project\EHR_project\obj\Debug\net7.0\staticwebassets.development.json
+D:\SDN PROJECT\EHR_project\EHR_project\obj\Debug\net7.0\scopedcss\bundle\EHR_project.styles.css
+D:\SDN PROJECT\EHR_project\EHR_project\obj\Debug\net7.0\EHR_project.csproj.CopyComplete
+D:\SDN PROJECT\EHR_project\EHR_project\obj\Debug\net7.0\EHR_project.genruntimeconfig.cache
+D:\SDN PROJECT\EHR_project\EHR_project\obj\Debug\net7.0\ref\EHR_project.dll
